@@ -1,0 +1,12 @@
+server:
+  url: http://localhost:9527/notify
+  secret: 035c73f7-bb6b-4889-a715-d9eb2d1925cc
+  content: 1234567890
+logger:
+  maxSize: 32
+  maxAge: 7
+  maxBackup: 30
+  compress: false
+  level: 0
+  serviceName: unionpay_server
+  logPath: ./logs/unionpay_server.log
