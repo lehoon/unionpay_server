@@ -1,0 +1,4 @@
+{"level":"info","time":"2023-02-13T15:33:03.257+0800","caller":"logger/zapLogger.go:49","msg":"logger初始化完成","serviceName":"hook_api"}
+{"level":"info","time":"2023-02-13T15:33:03.265+0800","caller":"unionpay_server/main.go:11","msg":"转发测试程序启动.","serviceName":"hook_api"}
+{"level":"info","time":"2023-02-13T15:39:41.173+0800","caller":"logger/zapLogger.go:49","msg":"logger初始化完成","serviceName":"hook_api"}
+{"level":"info","time":"2023-02-13T15:39:41.181+0800","caller":"unionpay_server/main.go:12","msg":"转发测试程序启动.","serviceName":"hook_api"}
